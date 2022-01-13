@@ -1,5 +1,5 @@
-# Memojang-by-Computerrinc
-A free notepad that looks like a hacker program (it's not)
+# Notepad
+A free notepad 
 
                      __________________________
                __..--/".'                        '.
@@ -8,7 +8,7 @@ A free notepad that looks like a hacker program (it's not)
      /               | |    ___________________   |
     ;                | |   :__________________/:  |
     |                | |   |                 '.|  |
-    |                | |   |   Memojang        |  |  
+    |                | |   |  Notepad          |  |  
     |                | |   |                  ||  |
     |                | |   |                  ||  |
     |                | |   |                  ||  |
@@ -32,5 +32,5 @@ A free notepad that looks like a hacker program (it's not)
           "-._.....| |             ___...---"""'
               "-._.| | ___...---"""
                   """""        
-Ps: Memojang means notepad in Korean
+
 
